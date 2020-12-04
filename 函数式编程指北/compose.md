@@ -1,5 +1,8 @@
 #### compose
 
+
+redux 和 koa 的 middleware 都有借鉴 compose 的地方
+
 * 用法
 
 ```js
